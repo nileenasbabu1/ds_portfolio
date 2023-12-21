@@ -10,17 +10,17 @@ I'm a full stack data science professional with cloud computing skills of more t
 
 ##### One of the Biggest challenges for Mining/Metal industries are to save their employees from Accidents/Injuries in workplace. Unfortunately, sometimes employees also die in such environment. Using AI techniques, we can help the professionals to highlight the safety risk as per the incident description.
 
-[https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot]
+[][https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot]
 ### Project 2: Pneumonia Detection Using Computer Vision
 
 ##### build analgorithm to detect a visual signal for pneumonia in medical images. Specifically, the algorithm needs to automatically locate lung opacities on chest radiographs
 
-[https://github.com/nileenasbabu1/Pneumonia-Detection-Challenge]
+[][https://github.com/nileenasbabu1/Pneumonia-Detection-Challenge]
 ### Project 3: Sarcasm Detection
 
 ##### News Headlines dataset for Sarcasm Detection
 
-[https://github.com/nileenasbabu1/sarcasm_detection]
+[][https://github.com/nileenasbabu1/sarcasm_detection]
 ### Project 4: Sentiments Classification
 
 ##### The objective of this project is to build a text classification model that analyses the customer's sentiments based on their reviews in the IMDB database. The model uses a complex deep learning model to build an embedding layer followed by a classification algorithm to analyze the sentiment of the customers
