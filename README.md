@@ -10,7 +10,7 @@ I'm a full stack data science professional with cloud computing skills of more t
 
 ##### One of the Biggest challenges for Mining/Metal industries are to save their employees from Accidents/Injuries in workplace. Unfortunately, sometimes employees also die in such environment. Using AI techniques, we can help the professionals to highlight the safety risk as per the incident description.
 
-[https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot][https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot]
+[https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot](https://github.com/nileenasbabu1/NLP_Safety-Assurance_Chatbot)
 ### Project 2: Pneumonia Detection Using Computer Vision
 
 ##### build analgorithm to detect a visual signal for pneumonia in medical images. Specifically, the algorithm needs to automatically locate lung opacities on chest radiographs
